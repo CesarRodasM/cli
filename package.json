@@ -99,6 +99,7 @@
     "@lvce-editor/ripgrep": "^1.6.0",
     "blackbox-cli-vscode-ide-companion": "^0.0.7",
     "formdata-polyfill": "^4.0.10",
+    "sharp": "^0.34.5",
     "simple-git": "^3.28.0",
     "strip-ansi": "^7.1.0"
   },
